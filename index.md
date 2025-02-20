@@ -1,6 +1,7 @@
 # Backrooms 非公式日本語翻訳サイト 　by Mackerelmimi
 
-このサイトでは、The Backrooms の英語記事を日本語に翻訳して公開しています。  
+このサイトでは、The Backrooms Wikiの英語記事を日本語に翻訳し、公開しています。  
+**翻訳の方針・ライセンスについては [こちら](about.md) をご覧ください。**  
 
 ## 最新の翻訳
 - [Level 0](level-0.md)  
