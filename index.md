@@ -3,8 +3,12 @@
 **翻訳の方針・ライセンスについては [こちら](about.md) をご覧ください。**  
 
 ## 最新の翻訳
-- [Level 0](level-0.md)  
-- [Level 1](level-1.md)  
+<div class="toc-container">
+    <div class="toc-item"><a href="levels/level-0.md">Level 0</a></div>
+    <div class="toc-item"><a href="levels/level-1.md">Level 1</a></div>
+    <div class="toc-item"><a href="entities/entity-1.md">Entity 1</a></div>
+</div>
+
 
 ## Backroomsとは？
 The Backrooms とは、現実とは異なる「異空間」に迷い込んでしまうという都市伝説（クリーピーパスタ）です。  
