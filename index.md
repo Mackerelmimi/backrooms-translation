@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="assets/css/custom.css">
 
 このサイトでは、The Backrooms Wikiの英語記事を日本語に翻訳し、公開しています。  
 **翻訳の方針・ライセンスについては [こちら](about.md) をご覧ください。**  
