@@ -6,7 +6,7 @@
 原作に忠実な翻訳を目指しますが、必ずしも正しい翻訳とは限りません。また、完全なるファンサイトであり[The Backrooms JP Wiki](http://japan-backrooms-wiki.wikidot.com) に寄りません。**個人サイト**であることにご留意願います。
 
 ## サイトURL  
-**[https://your-username.github.io/](https://your-username.github.io/)**  
+**[https://mackerelmimi.github.io/backrooms-translation/](https://mackerelmimi.github.io/backrooms-translation/)**  
 
 ## ライセンス  
 この翻訳は [Backrooms Wikidot](https://backrooms-wiki.wikidot.com/) および  
