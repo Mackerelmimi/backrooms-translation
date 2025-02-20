@@ -1,6 +1,6 @@
 title: "Backrooms 日本語翻訳"
 description: "The Backroomsの日本語翻訳サイト"
-remote_theme: pages-themes/minimal@v0.2.0  # シンプルでバランスのいいテーマ
+remote_theme: pages-themes/cayman@v0.2.0  # 明るくシンプルなテーマに戻す
 
 
 plugins:
