@@ -1,6 +1,7 @@
 title: "Backrooms 日本語翻訳"
 description: "The Backroomsの日本語翻訳サイト"
-remote_theme: "pages-themes/slate@v0.2.0"  # Slateテーマ（ダーク系）
+remote_theme: pages-themes/minimal@v0.2.0  # シンプルでバランスのいいテーマ
+
 
 plugins:
   - jekyll-remote-theme
