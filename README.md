@@ -3,7 +3,7 @@
 
 このサイトは、The Backrooms の英語記事を日本語に翻訳し、公開するプロジェクトです。  
 原作のライセンスに基づき、[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) のもとで提供されています。  
-原作に忠実な翻訳を目指しますが、必ずしも正しい翻訳とは限りません。また、完全なるファンサイトでありJP版 The backrooms に寄りません。**個人サイト**であることにご留意願います。
+原作に忠実な翻訳を目指しますが、必ずしも正しい翻訳とは限りません。また、完全なるファンサイトであり[The Backrooms JP Wiki](http://japan-backrooms-wiki.wikidot.com) に寄りません。**個人サイト**であることにご留意願います。
 
 ## サイトURL  
 **[https://your-username.github.io/](https://your-username.github.io/)**  
