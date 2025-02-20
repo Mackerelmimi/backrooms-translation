@@ -1,0 +1,13 @@
+.site-header {
+    background-image: url('https://source.unsplash.com/1600x900/?backrooms');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.site-title {
+    font-size: 2.5em;
+    font-weight: bold;
+}
