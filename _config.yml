@@ -11,3 +11,6 @@ url: "https://mackerelmimi.github.io"
 
 
 style: assets/css/custom.css
+
+include:
+  - assets/css/custom.css
