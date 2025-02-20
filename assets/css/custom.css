@@ -1,13 +1,13 @@
 .site-header {
-    background-image: url('https://source.unsplash.com/1600x900/?backrooms');
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/8/88/Backrooms_example.jpg');  /* Backroomsの壁画像 */
     background-size: cover;
     background-position: center;
-    color: white;
+    color: black !important;  /* 文字色を黒に */
     padding: 40px 20px;
     text-align: center;
 }
-
 .site-title {
-    font-size: 2.5em;
-    font-weight: bold;
+    font-size: 2.5em !important;
+    font-weight: bold !important;
 }
+
