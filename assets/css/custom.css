@@ -6,6 +6,9 @@
     padding: 40px 20px;
     text-align: center;
 }
+.site-header {
+    background-color: transparent !important;  /* 背景色を透明に */
+}
 .site-title {
     font-size: 2.5em !important;
     font-weight: bold !important;
